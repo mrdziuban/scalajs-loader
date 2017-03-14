@@ -9,5 +9,5 @@
     "type": "git",
     "url": "git@github.com:mrdziuban/scalajs-loader"
   },
-  "license": "UNLICENSED"
+  "license": "MIT"
 }

@@ -35,13 +35,5 @@ node_modules
 
 *.tgz
 
-# Example
-example/target
-example/lib_managed
-example/src_managed
-example/project/boot
-example/.history
-example/.cache
-example/project/target
-example/project/project
-example/bundle.js
+example
+.npmignore
